@@ -1,0 +1,22 @@
+{
+  "name": "modest",
+  "authors": [
+    "aleksandra-maslennikova <alex.maslennikova19@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tajem": "djvang/tajem",
+    "bootstrap": "^3.3.7"
+  }
+}
